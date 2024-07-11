@@ -1,0 +1,8 @@
+ 
+git revert  
+
+git reset TRACK_ID --hard/--soft FLAGS 
+
+git checkout -b BRANCH_NAME  
+
+git checkout BRANCH_NAME  
